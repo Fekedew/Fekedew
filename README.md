@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fekedew
-- 👀 I’m interested in android and web developemnt, Machine learning and Ethical hacking are my hobbies.
+- 👀 I’m interested in android and backend developemnt, Machine learning and Ethical hacking are my hobbies.
 - 🌱 I’m currently working as Backend developer Spring-boot Apache camel integration ...
 - 💞️ I’m looking to collaborate on any machine learning and/or ethical hacking related work...
 - 📫 You can email me => softwarefeke@gmail.com
